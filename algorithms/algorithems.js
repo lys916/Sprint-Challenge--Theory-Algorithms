@@ -1,7 +1,7 @@
 Exercise I. Give an analysis of the running time with respect to the input size n of each of the following program fragments below:
 
 a) a = 0; 
-	while (a < n * n * n) // O(n^3)
+	while (a < n * n * n) // O(n)
 	a = a + n * n;
 
 
